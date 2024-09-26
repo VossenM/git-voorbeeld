@@ -1,0 +1,1 @@
+dit is een voorbeeld project om Git te leren kennen.
